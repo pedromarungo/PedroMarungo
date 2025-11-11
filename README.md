@@ -1,12 +1,15 @@
-# Hello World ... Access Granted.
+# Hello World — Builder Mode
 
-I’ve been learning ethical hacking for a while now, mostly through TryHackMe where I’ve kept a yearly premium account. I spend most of my time working through labs, practicing techniques, and exploring red team and penetration testing concepts. I don’t really share much on GitHub yet since most of what I do is practice or temporary projects, but eventually I’d like to put together something more permanent.
-
-I’m not looking for work at the moment. Maybe later I’ll consider remote roles in security, penetration testing, or red teaming.
+I'm focused on building practical web and mobile apps with React, Next.js, Express, and React Native. I enjoy creating interfaces, shipping features, and connecting frontends to reliable backends. I’m gradually moving my practice projects onto GitHub as I turn brief experiments into reusable projects and demos.
 
 🌍 Chicago, IL
+
 ✉️ [your email here]
-🧠 Focused on ethical hacking, pentesting, and red team skills (mainly through TryHackMe)
-🤝 Open to small collaborations like CTFs or research, nothing too big
-⚡ I tend to collect security books and resources. Half the time it’s for study, the other half is just curiosity.
-                    
+
+🧠 Current focus: React, Next.js, Express, React Native (cross-platform apps + APIs)
+
+🤝 Open to small collaborations — app prototypes, UI work, or mobile experiments
+
+⚡ I like collecting useful libraries, starter templates, and patterns to speed up build time
+
+Not currently looking for work — mostly building, learning, and shipping small projects.
