@@ -1,6 +1,6 @@
 # Hello World 
 
-Self taught developer, focusing on mastering Pyhton and machine learning. I love anything that is computer science related and exploring AI.
+Self taught developer, focusing on mastering Python and machine learning. I love anything that is computer science related and exploring AI.
 🌍 Chicago, IL
 
 
