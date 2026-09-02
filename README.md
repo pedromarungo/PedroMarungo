@@ -1,13 +1,38 @@
-# Hello World 
+# Hello, World! 👋
 
-Self taught developer, focusing on mastering Python and machine learning. I love anything that is computer science related and exploring AI.
-🌍 Chicago, IL
+My name is **Pedro Marungo**, and I'm a self-taught developer based in **Chicago, Illinois**.
 
+I'm passionate about software development, technology, and constantly learning new things. I started my journey through self-directed learning and have been building my skills through projects, courses, and hands-on practice.
 
-🧠 Current focus: React, Next.js, Express, React Native (cross-platform apps + APIs)
+## 👨‍💻 About Me
 
-🤝 Open to small collaborations — app prototypes, UI work, or mobile experiments
+- 🏙️ Based in **Chicago, IL**
+- 💻 Self-taught **JavaScript Developer**
+- 🧩 Autistic adult, diagnosed later in life
+- 🌱 Always learning and improving my skills
+- 🔨 I enjoy building projects and experimenting with new technologies
+- 🔍 Interested in software development, cybersecurity, and technology
+- 🌎 Currently looking for **remote opportunities**
+- 🤝 Hoping to join a **friendly, supportive, and inclusive team**
 
-⚡ I like collecting useful libraries, starter templates, and patterns to speed up build time
+## 🛠️ Technologies
 
-Not currently looking for work — mostly building, learning, and shipping small projects.
+- JavaScript
+- HTML
+- CSS
+- Git & GitHub
+- Web Development
+
+## 🎯 Currently Learning
+
+I'm continuing to expand my knowledge of software development, programming, and cybersecurity while working on personal projects.
+
+## 📫 Looking for Opportunities
+
+I'm currently looking for a **remote developer position** where I can contribute my skills, continue learning, and grow alongside a supportive team.
+
+If you're interested in working together, feel free to reach out!
+
+---
+
+> *"The best way to learn is to build."*
